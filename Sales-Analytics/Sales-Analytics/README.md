@@ -4,8 +4,10 @@
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/Abusayeed-dev/excel-projects/blob/main/Sales-Analytics/Sales-Analytics/Customer%20Net%20Sales%20performance%20Report.pdf)_ 
+    **2.** create a [Division Sales performance report]()
+    **3.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Abusayeed-dev/excel-projects/blob/main/Sales-Analytics/Sales-Analytics/Market%20performance%20vs%20target.pdf)_
+    **4.**  find out [Contribution from new products]()
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
