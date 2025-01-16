@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]()_ 
+    **1.** Create a _[customer performance report](https://github.com/Abusayeed-dev/excel-projects/blob/main/Sales-Analytics/Sales-Analytics/Customer%20Net%20Sales%20performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
 
