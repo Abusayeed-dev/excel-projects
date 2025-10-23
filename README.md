@@ -1,124 +1,116 @@
 # 📊 AtliQ Hardwares — Sales & Finance Analytics Project (2019–2021)
 
 ## 🧩 Project Overview
-The **AtliQ Hardwares Analytics Project** consolidates **Sales** and **Finance** insights for FY2019–FY2021.  
-It integrates multiple datasets and dashboards to evaluate performance across customers, divisions, markets, and products.
+The **AtliQ Hardwares Analytics Project** unifies **Sales** and **Finance** insights for FY2019–FY2021.  
+It combines multiple reports to analyze performance across **customers, divisions, markets, and products**.
 
 ---
 
-## 🛍️ Sales Analytics Report
+## 🛍️ Sales Analytics
 
 ### 🎯 Project Objectives
 
 1. **Create a Customer Performance Report**  
    Analyze revenue growth, retention, and contribution per customer to highlight top performers.  
-   [📄 Customer Net Sales Performance Report](reports/Customer_Net_Sales_Performance_Report.pdf)
+   [📄 Customer Net Sales Performance Report](Sales-Analytics/Customer%20Net%20Sales%20performance%20Report.pdf)
 
 2. **Create a Division Sales Performance Report**  
    Compare sales volume and growth across divisions to identify the highest growth sectors.  
-   [📄 Division Sales Performance Report](reports/Division_Sales_Performance.pdf)
+   [📄 Division Sales Performance Report](Sales-Analytics/Division%20sales%20performance.pdf)
 
 3. **Conduct a Comprehensive Comparison between Market Performance and Sales Targets**  
    Evaluate how each market performed against assigned sales goals and growth forecasts.  
-   [📄 Top 5 Countries Sales Report](reports/Top_5_Countries.pdf)
+   [📄 Market Performance vs Target Report](Sales-Analytics/Market%20performance%20vs%20target.pdf)  
+   [📄 Top 5 Countries Sales Report](Sales-Analytics/top%205%20countries.pdf)
 
 4. **Find Out Contribution from New Products**  
    Measure the share of new product sales and their impact on total revenue growth.  
-   [📄 New Products 2021 Report](reports/NEW_Products_2021.pdf)  
-   [📄 Top 10 Product Sales Change Report](reports/Top_10_Product_Sales_Change.pdf)
+   [📄 New Products 2021 Report](Sales-Analytics/NEW-products%202021.pdf)  
+   [📄 Top 10 Product Sales Change Report](Sales-Analytics/Top%2010%20product%20sales%20change.pdf)
 
 ---
 
 ### 🧠 Purpose of Sales Analytics
-To empower businesses to **monitor**, **evaluate**, and **optimize** their sales activities and performance through data-driven insights.
+Empower the business to **monitor, evaluate, and optimize** sales activities through data-driven insights.
 
 ---
 
 ### 📈 Importance of Analyzing Sales Data
-- Identify **sales patterns**, seasonal trends, and emerging markets.  
-- Track **key performance indicators (KPIs)** such as sales growth %, gross margin %, and product performance.  
-- Support **strategic decisions** in pricing, distribution, and promotional planning.
+- Identify **sales patterns**, seasonal trends, and high-growth markets.  
+- Track **KPIs** such as Sales Growth %, Gross Margin %, and Product Contribution.  
+- Support **strategic decisions** in pricing, distribution, and promotions.
 
 ---
 
 ### 🧾 Role of Reports
-- Determine effective **customer discounts** and promotional efficiencies.  
-- Facilitate **negotiations** with high-value customers and distributors.  
-- Identify **potential expansion opportunities** in high-performing countries (e.g., India, USA, South Korea).
+- Determine effective **discount structures** and pricing strategies.  
+- Facilitate **negotiations** with key customers and distributors.  
+- Highlight **expansion opportunities** in top-performing regions (e.g., India, USA, South Korea).
 
 ---
 
-## 💰 Finance Analytics Report
+## 💰 Finance Analytics
 
 ### 🎯 Project Objectives
 
-1. **Create Profit and Loss (P&L) Reports by Fiscal Year & Month**  
+1. **Create Profit & Loss (P&L) Reports by Fiscal Year & Month**  
    Evaluate year-over-year trends in Net Sales, COGS, and Gross Margin.  
-   [📄 P&L Year Month Report](reports/P&L_Year_Month_Report.pdf)
+   [📄 P&L Year Month Report](PL-Analysis/P%20&%20L%20Year%20Month%20Report.pdf)
 
-2. **Create Profit and Loss (P&L) Reports by Market**  
+2. **Create Profit & Loss (P&L) Reports by Market**  
    Assess profitability variations across global markets to guide strategic planning.  
-   [📄 P&L For Market Report](reports/Report_1_P&L_For_Market.pdf)  
-   [📄 GM by Quarter Report](reports/Report_2_GM_By_Quarter.pdf)
+   [📄 P&L for Market Report](PL-Analysis/report%201(P&L%20For%20Market).pdf)  
+   [📄 GM by Quarter Report](PL-Analysis/report%202%20(GM_%20by%20quarter).pdf)
+
+3. **Integrate Priority & Project Metrics**  
+   Review project-level performance to align finance with strategic initiatives.  
+   [📄 Project Priority Matrix](PL-Analysis/Project%20priority%20matrix.pdf)
 
 ---
 
 ### 🧠 Purpose of Financial Analytics
-To evaluate financial performance, **support executive decisions**, and enable **transparent communication** with stakeholders.
+Evaluate financial health, **support executive decisions**, and ensure **transparent communication** with stakeholders.
 
 ---
 
 ### 📈 Importance of Analyzing Financial Data
-- Provides a strong base for **budgeting and forecasting**.  
-- Enables **benchmarking** against prior years and industry peers.  
-- Identifies areas for **cost optimization** and operational efficiency.
+- Build the foundation for **budgeting and forecasting**.  
+- Enable **benchmarking** against previous years and industry standards.  
+- Pinpoint opportunities for **cost optimization** and efficiency gains.
 
 ---
 
 ### 🧾 Role of Reports
-- Align **financial planning** with organizational strategy.  
-- Build stakeholder confidence in the company’s **financial outlook**.  
-- Enable proactive, data-driven decision-making.
+- Align **financial planning** with corporate goals.  
+- Strengthen **stakeholder confidence** in fiscal outlooks.  
+- Drive **data-based decision-making** for sustainable growth.
 
 ---
 
 ## 🧮 Technical & Soft Skills Utilized
 
 ### 🔧 Technical Skills
-- Proficiency in **ETL (Extract, Transform, Load)** methodology for efficient data preparation.  
-- Expertise in **Power Query** to generate date tables and derive fiscal months and quarters.  
-- Strong command of **Power Pivot** to establish data model relationships.  
-- Integration of **supplementary datasets** into existing Power BI models.  
-- Advanced **DAX (Data Analysis Expressions)** for custom KPIs and calculations.
+- ETL (Extract-Transform-Load) process automation.  
+- Power Query for date table generation and fiscal mapping.  
+- Power Pivot for robust data-model relationships.  
+- Integration of supplementary data into unified Power BI models.  
+- Advanced DAX calculations for KPIs and time intelligence.
 
 ### 💡 Soft Skills
-- Deep understanding of **Sales & Finance reporting frameworks**.  
-- Skilled in designing **user-centric dashboards** tailored to business needs.  
-- Optimization of report generation through meticulous fine-tuning.  
-- Strategic, **systematic approach** to planning report architecture.  
-- Empathy-driven design mindset focused on clarity and decision support.
+- Strong understanding of **Sales & Finance analytics workflows**.  
+- **User-centric dashboard design** emphasizing clarity and usability.  
+- Systematic approach to **report architecture and planning**.  
+- **Empathy-driven design** for actionable business storytelling.
 
 ---
 
 ## 🧭 Key Outcomes
-- Delivered integrated **Sales & Finance dashboards** from 10+ data sources.  
-- Demonstrated **304.5% YoY sales growth (2020→2021)** and market profitability trends.  
-- Enabled management to align **financial KPIs** with **sales metrics**.  
-- Strengthened data-driven strategy for **new product launches** and **geographical expansion**.
+- Delivered integrated **Sales + Finance dashboards** from 10 datasets.  
+- Revealed **304.5 % YoY sales growth (2020 → 2021)** and profitability trends.  
+- Unified **financial KPIs** with **sales metrics** for executive alignment.  
+- Strengthened data-driven strategy for **new product launches** and **market expansion**.
 
 ---
 
-## 📂 Deliverables
-- `Sales_Finance_Analytics_Project.md` (this file)  
-- `/reports/` folder containing all supporting PDFs  
-- `AtliQ_Consolidated_Report_2019_2021.md` (detailed data & charts)  
-- Power BI Dashboards (Sales & Finance)  
-- Processed CSV datasets for transparency
+## 📂 Project Folder Structure
 
----
-
-  
-**Tools Used:** Power BI, Excel, Power Query, Power Pivot, DAX, Data Modeling  
-**Timeline:** FY2019–FY2021
-
----
