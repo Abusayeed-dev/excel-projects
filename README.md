@@ -12,7 +12,7 @@ It combines multiple reports to analyze performance across **customers, division
 
 1. **Create a Customer Performance Report**  
    Analyze revenue growth, retention, and contribution per customer to highlight top performers.  
-   [📄 Customer Net Sales Performance Report](Sales-Analytics/Customer%20Net%20Sales%20performance%20Report.pdf)
+   [📄 Customer Net Sales Performance Report](Customer%20Net%20Sales%20performance%20Report.pdf)
 
 2. **Create a Division Sales Performance Report**  
    Compare sales volume and growth across divisions to identify the highest growth sectors.  
